@@ -1,0 +1,11 @@
+Why is a tree appropriate for the doctor structure?
+It typically first in order so that this structure keeps the order of the intake. As people come in you need to
+not loss the order of people being seen.
+When might a software engineer use preorder, inorder, or postorder traversals?
+I believe they would use it when organizing web requesting or processing. You might want a speicific order of actions
+to go off in a speicific order. For instance if you want to push code through the CI/CD pipeline you make want to do 
+a series of checks before code can migrate to a higher level. 
+How do heaps help simulate real-time systems like emergency intake?
+Heaps can be used in real-time systems like emergency intake to implement priority queues, allowing the system to efficiently 
+manage and process tasks based on their urgency. This ensures that higher priority cases are handled first, improving 
+response times and overall effectiveness in critical situations when managing a large amount of request.
